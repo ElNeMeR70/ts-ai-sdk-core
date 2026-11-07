@@ -1,0 +1,13 @@
+{
+  "name": "ts-ai-sdk-core",
+  "version": "1.0.0",
+  "description": "AI SDK core: generateText, streamText, generateObject",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
